@@ -3,5 +3,5 @@
 	url = https://github.com/olOwOlo/hugo-theme-even
 [submodule "public"]
 	path = public
-	url = https://github.com/ppipada/ppipada.github.io.git
+	url = git@github.com:ppipada/ppipada.github.io.git
 	branch = master
