@@ -1,9 +1,24 @@
 ---
-title: Quotes
-layout: "post"
+title: "Papers-Quotes"
+date: 2020-03-24 08:00:00 +0530
+type: post
 ---
 
-## Life
+## Papers
+
+- [Lifes irreducible structure](https://fermatslibrary.com/s/lifes-irreducible-structure)
+- [Paxos made simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
+- [The Google file system - GFS](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+- [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+- [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+- [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf)
+- [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36356.pdf)
+
+- [Papers we love github repo](https://github.com/papers-we-love/papers-we-love)
+
+## Quotes
+
+### Life
 
 ---
 
@@ -76,7 +91,7 @@ Above all, don’t fear difficult moments. The best comes from them.
 
 ---
 
-## Self
+### Self
 
 ---
 
@@ -182,7 +197,7 @@ Your mind is credulous enough to believe any narrative you feed it. Choose wisel
 
 ---
 
-## Morality
+### Morality
 
 ---
 
@@ -202,7 +217,7 @@ Morality is doing what’s right regardless of what you’re told. Obedience is 
 
 --- _Unknown_
 
-## People
+### People
 
 ---
 
@@ -278,7 +293,7 @@ I like offending people because I think people who get offended should be offend
 
 ---
 
-## Miscellaneous
+### Miscellaneous
 
 ---
 

@@ -50,10 +50,10 @@ copyright = ""            # default: author.name
   identifier = "categories"
   url = "/categories/"
 [[menu.main]]
-  name = "Quotes"
+  name = "Papers-Quotes"
   weight = 50
-  identifier = "quotes"
-  url = "/quotes/"
+  identifier = "papers-quotes"
+  url = "/papers-quotes/"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
