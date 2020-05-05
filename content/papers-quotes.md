@@ -1,7 +1,7 @@
 ---
 title: "Papers-Quotes"
 date: 2020-03-24 08:00:00 +0530
-type: post
+type: singlepage
 ---
 
 ## Papers

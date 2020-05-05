@@ -1,0 +1,26 @@
+{{ define "content" -}}
+  <article class="post">
+    <!-- post-header -->
+    <header class="post-header">
+      <h1 class="post-title">{{ .Title }}</h1>
+    </header>
+
+    <!-- TOC -->
+    {{- partial "post/toc.html" . -}}
+
+    <!-- Outdated Info Warning -->
+    <!-- {{- partial "post/outdated-info-warning.html" . -}} -->
+
+    <!-- Content -->
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+
+    <!-- Copyright -->
+    {{- partial "post/copyright.html" . -}}
+
+    <!-- Reward -->
+    {{- partial "post/reward.html" . -}}
+
+  </article>
+{{- end }}
