@@ -18,76 +18,60 @@ type: singlepage
 
 ## Quotes
 
+---
+
 ### Life
 
 ---
 
-Information is not knowledge  
+{{% admonition "quote" "Frank Zappa" %}}
+"Information is not knowledge  
 Knowledge is not wisdom  
 Wisdom is not truth  
 Truth is not beauty  
 Beauty is not love  
 Love is not music  
-Music is the best.
+Music is the best."
+{{% /admonition %}}
 
---- _Frank Zappa_
-
----
-
+{{% admonition "quote" "Kurt Vonnegut" %}}
 I have this thought experiment I do in moments like that....  
 I imagine being nothing at all. Dead and gone.  
 And while being dead and gone and nothing, you were allowed to re-live just one moment again of your long lost life for a just a couple minutes and it just so happens to be the one you are in living in right now.  
 Its an amazing feeling. You will see your life with rare fresh eyes for just a few seconds. And then life goes on....
+{{% /admonition %}}
 
---- _Kurt Vonnegut_
-
----
-
+{{% admonition "quote" "Ian MacLaren" %}}
 Be kind, for everyone is fighting a hard battle.
+{{% /admonition %}}
 
---- _Ian MacLaren_
-
----
-
+{{% admonition "quote" "George Bernard Shaw" %}}
 A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+{{% /admonition %}}
 
---- _George Bernard Shaw_
-
----
-
+{{% admonition "quote" "Helen Keller" %}}
 Security is mostly a superstition. Avoiding danger is no safer in the long run than outright exposure. Life is either a daring adventure, or nothing.
+{{% /admonition %}}
 
---- _Helen Keller_
-
----
-
+{{% admonition "quote" "Dalai Lama" %}}
 Share your knowledge. It’s a way to achieve immortality.
+{{% /admonition %}}
 
---- _Dalai Lama_
-
----
-
+{{% admonition "quote" "T.S. Elliot" %}}
 I said to my soul, be still, wait without hope For hope would be hope for the wrong thing.
+{{% /admonition %}}
 
---- _T.S. Elliot_
-
----
-
+{{% admonition "quote" "Schopenhauer" %}}
 Humor is the only divine quality to be found in humanity.
+{{% /admonition %}}
 
---- _Schopenhauer_
-
----
-
+{{% admonition "quote" "Johann Wolfgang von Goethe" %}}
 We are shaped and fashioned by what we love.
+{{% /admonition %}}
 
---- _Johann Wolfgang von Goethe_
-
----
-
+{{% admonition "quote" "Rita Levi Montalcini" %}}
 Above all, don’t fear difficult moments. The best comes from them.
-
---- _Rita Levi Montalcini_
+{{% /admonition %}}
 
 ---
 
@@ -95,105 +79,73 @@ Above all, don’t fear difficult moments. The best comes from them.
 
 ---
 
+{{% admonition "quote" "Rob Pike" %}}
 Eventually, I decided that thinking was not getting me very far and it was time to try building.
+{{% /admonition %}}
 
---- _Rob Pike_, “The Text Editor sam”
-
----
-
+{{% admonition "quote" "Russ Cox" %}}
 It’s possible that I understand better what’s going on, or it’s equally possible that I just think I do.
+{{% /admonition %}}
 
---- _Russ Cox_
-
----
-
+{{% admonition "quote" "Pablo Picasso" %}}
 Inspiration does exist, but it must find you working.
+{{% /admonition %}}
 
---- _Pablo Picasso_
-
----
-
+{{% admonition "quote" "Philip K. Dick" %}}
 Reality is what refuses to go away when I stop believing in it.
+{{% /admonition %}}
 
---- _Philip K. Dick_
-
----
-
+{{% admonition "quote" "Henry Kissinger" %}}
 If you don’t know where you are going, every road will get you nowhere.
+{{% /admonition %}}
 
---- _Henry Kissinger_
-
----
-
+{{% admonition "quote" "Johann Wolfgang von Goethe" %}}
 There is nothing worse than imagination without taste.
+{{% /admonition %}}
 
---- _Johann Wolfgang von Goethe_
-
----
-
+{{% admonition "quote" "Antoine-Marie-Roger de Saint-Exupery. Wind, Sand and Stars" %}}
 Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+{{% /admonition %}}
 
---- _Antoine-Marie-Roger de Saint-Exupery_, Wind, Sand and Stars
-
----
-
+{{% admonition "quote" "Santayana" %}}
 Fanaticism consists in redoubling your efforts when you have forgotten your aim.
+{{% /admonition %}}
 
---- _Santayana_
-
----
-
+{{% admonition "quote" "Andy Warhol" %}}
 They always say time changes things, but you actually have to change them yourself.
+{{% /admonition %}}
 
---- _Andy Warhol_
-
----
-
+{{% admonition "quote" "Katharine Hepburn" %}}
 If you obey all the rules, you will miss all the fun.
+{{% /admonition %}}
 
---- _Katharine Hepburn_
-
----
-
+{{% admonition "quote" "George Bernard Shaw" %}}
 If you can’t get rid of the skeleton in your closet, you’d best teach it to dance.
+{{% /admonition %}}
 
---- _George Bernard Shaw_
-
----
-
+{{% admonition "quote" "Unknown" %}}
 If you’re the smartest person in the room, go look for a room with smarter people in it.
+{{% /admonition %}}
 
---- _Unknown_
-
----
-
+{{% admonition "quote" "Vladimir Nabokov" %}}
 Curiosity is insubordination in its purest form.
+{{% /admonition %}}
 
---- _Vladimir Nabokov_
-
----
-
+{{% admonition "quote" "Gen. Colin Powell" %}}
 A good leader is someone whose troops will follow him, if only out of curiosity.
+{{% /admonition %}}
 
---- _Gen. Colin Powell_
-
----
-
+{{% admonition "quote" "Frank Borman" %}}
 A superior pilot uses his superior judgment to avoid having to exercise his superior skill.
+{{% /admonition %}}
 
---- _Frank Borman_
-
----
-
+{{% admonition "quote" "Ward Cunningham" %}}
 The shortest path to exceeding expectations doesn’t generally pass through meeting expectations.
+{{% /admonition %}}
 
---- _Ward Cunningham_
-
----
-
+{{% admonition "quote" "Stephen Sadowski" %}}
 Your mind is credulous enough to believe any narrative you feed it. Choose wisely.
-
---- _Stephen Sadowski_
+{{% /admonition %}}
 
 ---
 
@@ -201,95 +153,71 @@ Your mind is credulous enough to believe any narrative you feed it. Choose wisel
 
 ---
 
+{{% admonition "quote" "Isaac Asimov" %}}
 Never let your sense of morals prevent you from doing what’s right.
+{{% /admonition %}}
 
---- _Isaac Asimov_
-
----
-
+{{% admonition "quote" "Alfred North Whitehead" %}}
 There are no whole truths: all truths are half-truths. It is trying to treat them as whole truths that plays to the devil.
+{{% /admonition %}}
 
---- _Alfred North Whitehead_
+{{% admonition "quote" "Unknown" %}}
+Morality is doing what’s right regardless of what you’re told. Obedience is doing what you’re told regardless of what is right.
+{{% /admonition %}}
 
 ---
-
-Morality is doing what’s right regardless of what you’re told. Obedience is doing what you’re told regardless of what is right.
-
---- _Unknown_
 
 ### People
 
 ---
 
+{{% admonition "quote" "Penn Jillette" %}}
 You must defend people you disagree with, it is how you find out what your principles really are.
+{{% /admonition %}}
 
---- _Penn Jillette_
+{{% admonition "quote" "Alberto Brandolini" %}}
+Brandolini’s law: The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
+{{% /admonition %}}
 
----
-
-The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
-
---- Brandolini’s law, _Alberto Brandolini_
-
----
-
+{{% admonition "quote" "Old proverb" %}}
 A lie is halfway round the world before the truth has got its boots on.
+{{% /admonition %}}
 
---- _Old proverb_
-
----
-
+{{% admonition "quote" "George Bernard Shaw" %}}
 The power of accurate observation is often called cynicism by those who have not got it.
+{{% /admonition %}}
 
---- _George Bernard Shaw_
-
----
-
+{{% admonition "quote" "George Bernard Shaw" %}}
 The reasonable man adapts himself to the world. The unreasonable man persists in trying to adapt the world to himself. All progress, therefore, depends upon the unreasonable man.
+{{% /admonition %}}
 
---- _George Bernard Shaw_
-
----
-
+{{% admonition "quote" "Alan Perlis" %}}
 Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+{{% /admonition %}}
 
---- _[Alan Perlis](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)_
-
----
-
+{{% admonition "quote" "George Orwell" %}}
 There are some ideas so wrong that only a very intelligent person could believe in them.
+{{% /admonition %}}
 
---- _George Orwell_
-
----
-
+{{% admonition "quote" "Thomas Sowell" %}}
 It takes considerable knowledge just to realize the extent of your own ignorance.
+{{% /admonition %}}
 
---- _Thomas Sowell_
-
----
-
+{{% admonition "quote" "Hanlon’s razor" %}}
 Never attribute to malice that which can be adequately explained by stupidity.
+{{% /admonition %}}
 
---- _Hanlon’s razor_
-
----
-
+{{% admonition "quote" "Albert Einstein" %}}
 Great spirits have always found violent opposition from mediocrities. The latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence.
+{{% /admonition %}}
 
---- _Albert Einstein_
-
----
-
+{{% admonition "quote" "John Perry Barlow" %}}
 One is never so dangerous as when he’s utterly convinced he is right.
+{{% /admonition %}}
 
---- _John Perry Barlow_
-
----
-
+{{% admonition "quote" "Linus Torvalds" %}}
 I like offending people because I think people who get offended should be offended.
-
---- _Linus Torvalds_
+{{% /admonition %}}
 
 ---
 
@@ -297,40 +225,28 @@ I like offending people because I think people who get offended should be offend
 
 ---
 
+{{% admonition "quote" "John F. Kennedy" %}}
 Too often we enjoy the comfort of opinion without the discomfort of thought.
+{{% /admonition %}}
 
---- _John F. Kennedy_
-
----
-
+{{% admonition "quote" "Voltaire" %}}
 A witty saying proves nothing.
+{{% /admonition %}}
 
---- _Voltaire_
-
----
-
+{{% admonition "quote" "Tim O'Reilly" %}}
 The future is always scary to those who cling to the past.
+{{% /admonition %}}
 
---- _Tim O'Reilly_
-
----
-
+{{% admonition "quote" "George F. Will" %}}
 The future has a way of arriving unannounced.
+{{% /admonition %}}
 
---- _George F. Will_
-
----
-
+{{% admonition "quote" "Anne Morrow Lindbergh" %}}
 Good communication is as stimulating as black coffee, and just as hard to sleep after.
+{{% /admonition %}}
 
---- _Anne Morrow Lindbergh_
-
----
-
+{{% admonition "quote" "C. Northcote Parkinson" %}}
 Parkinson's law of triviality: Members of an organization give disproportionate weight to trivial issues.
 
 Bikeshedding (Metaphor): Futile investment of time and energy in discussion of marginal technical issues.
-
---- _C. Northcote Parkinson_
-
----
+{{% /admonition %}}
