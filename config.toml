@@ -9,12 +9,6 @@ enableEmoji = true
 theme = "even"
 enableGitInfo = true # use git commit log to generate lastmod record
 
-# Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
-pygmentsOptions = "linenos=table"
-pygmentsCodefences = true
-pygmentsUseClasses = true
-pygmentsCodefencesGuessSyntax = true
-
 hasCJKLanguage = false     # has chinese/japanese/korean ?
 paginate = 5
 disqusShortname = ""      # disqus_shortname
@@ -205,8 +199,25 @@ copyright = ""            # default: author.name
   [privacy.youtube]
     privacyEnhanced = true
 
-[markup.goldmark.renderer]
-unsafe = true
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+    # style = "monokai"
+    tabWidth = 4
+  [markup.goldmark.renderer]
+    unsafe = true
+
+# Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
+# pygmentsOptions = "linenos=table"
+# pygmentsCodefences = true
+# pygmentsUseClasses = true
+# pygmentsCodefencesGuessSyntax = true
 # 将下面这段配置取消注释可以使 hugo 生成 .md 文件
 # Uncomment these options to make hugo output .md files.
 #[mediaTypes]
