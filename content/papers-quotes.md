@@ -74,6 +74,10 @@ We are shaped and fashioned by what we love.
 Above all, don’t fear difficult moments. The best comes from them.
 {{% /admonition %}}
 
+{{% admonition "quote" "The tao of Pooh" %}}
+Take the path to Nothing, and go Nowhere until you reach it.
+{{% /admonition %}}
+
 ---
 
 ### Self
