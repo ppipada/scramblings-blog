@@ -1,7 +1,7 @@
 ---
 title: Linux - Git commands
 date: 2020-03-27 09:22:00 +0530
-categories: [Linux, Commands]
+categories: [Software-Tools]
 tags: [linux, git, utilities, commands]
 summary: Few git commands.
 seo:

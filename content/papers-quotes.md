@@ -152,6 +152,10 @@ The shortest path to exceeding expectations doesn’t generally pass through mee
 Your mind is credulous enough to believe any narrative you feed it. Choose wisely.
 {{% /admonition %}}
 
+{{% admonition "quote" "Martin Scorsese" %}}
+The most personal is the most creative.
+{{% /admonition %}}
+
 ---
 
 ### Morality

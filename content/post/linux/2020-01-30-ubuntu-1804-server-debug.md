@@ -1,7 +1,7 @@
 ---
 title: Linux - Ubuntu 18.04 server setup debug
 date: 2020-01-30 20:55:00 +0530
-categories: [Linux, Ubuntu]
+categories: [Software-Tools]
 tags: [linux, ubuntu, debug, commands]
 summary: Few ubuntu server setup issues and corresponding steps to debug them.
 seo:

@@ -1,7 +1,7 @@
 ---
 title: Python Helpers - Closures
 date: 2019-11-09 20:55:00 +0530
-categories: [Python, Helpers]
+categories: [Software-Tools]
 tags: [python, utilities, scripts, closures]
 summary: A script to chain multiple closures in python with example usage.
 seo:

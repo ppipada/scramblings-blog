@@ -1,7 +1,7 @@
 ---
 title: Python Helpers - Profiling
 date: 2019-11-09 19:55:00 +0530
-categories: [Python, Helpers]
+categories: [Software-Tools]
 tags: [python, utilities, scripts, profiling]
 summary: A script to cprofile a single function in python
 seo:

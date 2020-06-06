@@ -1,7 +1,7 @@
 ---
 title: Mustache templates and YAML front-matter with Docsify
 date: 2020-04-29 08:30:00 +0530
-categories: [Markdown, Docsify]
+categories: [Software-Tools]
 tags: [markdown, yaml, front-matter, mustache, docsify]
 summary:
   Docsify, YAML front-matter, mustache templates & tags and some quirks when

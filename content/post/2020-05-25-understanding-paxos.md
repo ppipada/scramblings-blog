@@ -1,7 +1,7 @@
 ---
 title: Understanding Paxos
 date: 2020-05-25 12:00:00 +0530
-categories: [Distributed-systems]
+categories: [Systems-Design]
 tags: [distributed-systems]
 type: post
 summary: Reading the paxos made simple paper and understanding it.

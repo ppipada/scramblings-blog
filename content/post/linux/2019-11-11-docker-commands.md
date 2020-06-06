@@ -1,7 +1,7 @@
 ---
 title: Docker - Commands
 date: 2019-11-11 21:55:00 +0530
-categories: [Linux, Docker]
+categories: [Software-Tools]
 tags: [linux, docker, utilities, commands]
 summary: Basic docker commands.
 seo:

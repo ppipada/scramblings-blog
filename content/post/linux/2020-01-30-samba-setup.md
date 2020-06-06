@@ -1,7 +1,7 @@
 ---
 title: Samba setup
 date: 2020-01-30 21:55:00 +0530
-categories: [Linux, Samba]
+categories: [Software-Tools]
 tags: [linux, samba, utilities, scripts, commands]
 summary: Steps to set up a samba server on ubuntu 18.04.
 seo:

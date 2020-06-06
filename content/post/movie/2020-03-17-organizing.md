@@ -1,7 +1,7 @@
 ---
 title: Movies - Organizing a largish movie collection
 date: 2020-03-17 16:53:00 +0530
-categories: [Movie]
+categories: [Movie, Software-Tools]
 tags: [movie, linux, ubuntu, kodi]
 summary: Organizing a local storage based movie collection.
 seo:
