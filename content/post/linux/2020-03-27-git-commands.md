@@ -13,3 +13,5 @@ Few git commands.
 | Description                                                          | Command                                               |
 | -------------------------------------------------------------------- | ----------------------------------------------------- |
 | Delete all branches locally except for ones having the word "master" | `git branch | grep -v "master" | xargs git branch -D` |
+| Pull submodules initially                                            | `git submodule update --init --recursive`             |
+| Update submodules                                                    | `git submodule update --recursive --remote`           |
