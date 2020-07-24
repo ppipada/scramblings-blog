@@ -35,7 +35,7 @@ sudo apt autoremove
   - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
   - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
-My simple `/.zshrc` file:
+My simple `~/.zshrc` file:
 
 ```shell
 {{% code "post/linux/zshrc"%}}
@@ -64,14 +64,14 @@ ssh -T git@git-example.com
 
 ## Basic software install
 
-- VSCode. General post for VSCode helpers is [here](./2020-04-28-vscode.md)
+- VSCode. General post for VSCode helpers is [here]({{< relref "2020-04-28-vscode.md" >}})
 - [Slack](https://slack.com)
 - [Zoom](https://zoom.us/)
 - [Hugo](https://gohugo.io/getting-started/installing/). Hugo is fantastic website building framework. Awesome for static sites.
 
 ## Programming language settings
 
-- Go. Basic introductory primer is present [here](../go/2019-11-17-go-intro-primer.md).
+- Go. Basic introductory primer is present [here]({{< relref "../go/2019-11-17-go-intro-primer.md" >}}).
 - Python. Getting started [link](https://www.python.org/about/gettingstarted/)
 
 Pull your code and go exploring :)
